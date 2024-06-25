@@ -1,0 +1,3 @@
+﻿D:\VisualStudio\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ND_filter_and_FGF_fusion.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  fusion.cpp
+  ND_filter_and_FGF_fusion.vcxproj -> C:\Users\Lenovo\Desktop\图像融合paper\投稿后\ND2\x64\Debug\ND2.exe
