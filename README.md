@@ -4,3 +4,7 @@ This is a demo code for our paper titled "Focus-aware Fusion for Enhanced All-i
 The code is being organized.
 
 The code is constantly being updated
+
+
+# Setting
+VS 2022
